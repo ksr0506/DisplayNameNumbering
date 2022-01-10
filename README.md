@@ -20,5 +20,7 @@ Properties
 Input
 - FolderPath (String) 
   - 작업을 수행할 프로젝트 폴더 경로 (해당 값이 비어 있으면 folderBrowserDialog가 호출되어 경로 선택이 가능합니다.)
+- OpenFolder (Boolean) 
+  - 작업 완료 후 폴더를 탐색기로 열어 줍니다.
 - Overwrite (Boolean) 
   - 복사할 폴더로 미리 생성된 백업폴더가 존재하면 덮어씁니다. (False로 설정 후 이미 폴더가 경로에 존재하면 에러가 발생합니다.)
