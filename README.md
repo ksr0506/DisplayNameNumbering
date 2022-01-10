@@ -2,7 +2,6 @@
 
 Workflow내에 사용된 Activity의 DisplayName을 중복되지 않게 번호를 달아주는 Library입니다.
 
-
 Studio & Package Version
 ---
 
